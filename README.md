@@ -7,15 +7,15 @@
   the dataset. Below you can find more details.
 
 ## system requirements
-
+```
   ruby 3.0.0
-
+```
 ## Initial Setup
-
+```
   gem install rspec
-
+```
 ## how it works
-
+```
   Given the following template:
     A T&C Document
     This document is made of plaintext.
