@@ -1,6 +1,6 @@
 # spec/iubenda_spec.rb
 require_relative '../iubenda'
-require 'pry'
+
 RSpec.describe "Iubenda" do
   describe "#execute" do
     let!(:template) {

@@ -1,5 +1,4 @@
 require_relative "tag"
-require 'pry'
 
 class Section < Tag
   attr_reader :sections, :clauses
